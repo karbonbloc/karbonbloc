@@ -81,7 +81,7 @@ PeerOrgs:
       Count: 2
     Users:
       Count: 1
- - Name: gov1
+  - Name: gov1
     Domain: gov1.karbonbloc.com
     EnableNodeOUs: true
     Template:
